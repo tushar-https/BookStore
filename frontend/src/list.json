@@ -1,0 +1,85 @@
+[
+    {
+        "id":1,
+        "name":"The Rudest Book ever",
+        "title":"Lorem ipsum dolor sit amet,",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714464012~exp=1714467612~hmac=72021658e8a4d474f9a0e816e37f100accf81fc115f60abe21dcf6a36e1504a3&w=740"
+    },
+
+    {
+        "id": 2,
+        "name": "The Subtle Art of Not Giving a F*ck",
+        "title": "A Counterintuitive Approach to Living a Good Life",
+        "price": 15.99,
+        "category": "Self-Help",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714464012~exp=1714467612~hmac=72021658e8a4d474f9a0e816e37f100accf81fc115f60abe21dcf6a36e1504a3&w=740"
+      },
+      
+    {
+      "id": 3,
+      "name": "The Power of Now",
+      "title": "A Guide to Spiritual Enlightenment",
+      "price": 0,
+      "category": "Spirituality",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714464012~exp=1714467612~hmac=72021658e8a4d474f9a0e816e37f100accf81fc115f60abe21dcf6a36e1504a3&w=740"
+    },
+    {
+      "id": 4,
+      "name": "To Kill a Mockingbird",
+      "title": "Lorem ipsum dolor sit amet,",
+      "price":0,
+      "category": "Classic",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714464012~exp=1714467612~hmac=72021658e8a4d474f9a0e816e37f100accf81fc115f60abe21dcf6a36e1504a3&w=740"
+    },
+    {
+      "id": 5,
+      "name": "The Alchemist",
+      "title": "A Fable About Following Your Dream",
+      "price": 0,
+      "category": "Fiction",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714464012~exp=1714467612~hmac=72021658e8a4d474f9a0e816e37f100accf81fc115f60abe21dcf6a36e1504a3&w=740"
+    },
+    {
+      "id": 6,
+      "name": "The Hitchhiker's Guide to the Galaxy",
+      "title": "Lorem ipsum dolor sit amet,",
+      "price": 8.75,
+      "category": "Science Fiction",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714464012~exp=1714467612~hmac=72021658e8a4d474f9a0e816e37f100accf81fc115f60abe21dcf6a36e1504a3&w=740"
+    },
+    {
+      "id": 7,
+      "name": "Sapiens: A Brief History of Humankind",
+      "title": "Lorem ipsum dolor sit amet,",
+      "price": 14.99,
+      "category": "History",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714464012~exp=1714467612~hmac=72021658e8a4d474f9a0e816e37f100accf81fc115f60abe21dcf6a36e1504a3&w=740"
+    },
+    {
+      "id": 8,
+      "name": "1984",
+      "title": "Lorem ipsum dolor sit amet,",
+      "price": 0,
+      "category": "Dystopian",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714464012~exp=1714467612~hmac=72021658e8a4d474f9a0e816e37f100accf81fc115f60abe21dcf6a36e1504a3&w=740"
+    },
+    {
+      "id": 9,
+      "name": "Harry Potter and the Sorcerer's Stone",
+      "title": "Lorem ipsum dolor sit amet,",
+      "price": 0,
+      "category": "Fantasy",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714464012~exp=1714467612~hmac=72021658e8a4d474f9a0e816e37f100accf81fc115f60abe21dcf6a36e1504a3&w=740"
+    },
+    {
+      "id": 10,
+      "name": "The Great Gatsby",
+      "title": "Lorem ipsum dolor sit amet,",
+      "price": 9.25,
+      "category": "Literature",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714464012~exp=1714467612~hmac=72021658e8a4d474f9a0e816e37f100accf81fc115f60abe21dcf6a36e1504a3&w=740"
+    }
+  ]
+  
