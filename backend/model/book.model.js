@@ -5,11 +5,11 @@ const bookSchema = mongoose.Schema(
        id:Number,      
        name:String,
        title:String,
-       price:Float64Array,    
+       price:Number,    
     category:String,
        image:String
     } 
 )
-const book  = mongoose.model("Book",bookSchema);
+const Book  = mongoose.model("Book",bookSchema);
 
-export default book;
+export default Book;

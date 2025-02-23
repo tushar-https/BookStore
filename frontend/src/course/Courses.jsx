@@ -1,4 +1,6 @@
 import React from 'react'
+import { useState, useEffect } from "react";
+
 import Navbar from '../components/navbar'
 import Footer from '../components/Footer'
 import Course from '../components/Course'
